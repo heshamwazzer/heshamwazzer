@@ -1,4 +1,4 @@
-### Hey there, I'm  Hesham Wazzer   <img align="center" alt="GIF" src="loadingindicator.gif" width="45" height="45" />
+### Hey there, I'm  Hesham Wazzer   <img align="center" alt="GIF" src="83177028_1210447069165025_3417387348646690816_n.jpg" width="45" height="45" />
 
 <div align="center">
 <p align="center">Let's connect!</p>
@@ -39,7 +39,7 @@
 </a>
 </div>
 
-<img align="right" alt="PNG" src="my_logo-t.png" width="334" height="474" />
+<img align="right" alt="PNG" src="83177028_1210447069165025_3417387348646690816_n.jpg" width="334" height="474" />
 <br>
 
 ### A Developer & Trainer
