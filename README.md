@@ -39,7 +39,7 @@
 </a>
 </div>
 
-<img align="right" alt="PNG" src="83177028_1210447069165025_3417387348646690816_n.jpg" width="334" height="474" />
+<img align="right" alt="PNG" src="Colored.png" width="334" height="474" />
 <br>
 
 ### A Developer & Trainer
