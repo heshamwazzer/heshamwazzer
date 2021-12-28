@@ -17,17 +17,15 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.upwork.com/freelancers/~019c71ca4133d4f65d">
-    <img src="https://img.shields.io/badge/Upwork-00a732?style=for-the-badge&logo=upwork&logoColor=white" />
-</a>
+
+    
 
 <a href="https://www.facebook.com/heshamwazzer">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="https://stackoverflow.com/users/11468643/ahmed-mokhtar">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</a>
+
+    
 </div>
 
 <br>
@@ -46,24 +44,15 @@
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ Founder of [GDG Beni-Suef][gdg]
+
 - 💻 The tech I'm interested in AI, Django and Problem Solving
 - ✍ Technical Instructor
-- ✨ I'm Developing Flutter, Web scrapping, Automations etc.
-- <img src="https://img.icons8.com/emoji/48/000000/brain-emoji.png" width="20" height="20" /> Problem solver at [codeforces], [hackerrank]
-- 📄 [Website][profile]
+- ✨ I'm FullStack Developer , Web scrapping, Automations etc.
 
-<!-- ### Languages & Tools
 
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> -->
 
- 
+
+
  <br>
  <br>
  <br>
@@ -86,7 +75,6 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Mokhtar's github stats](https://github-readme-stats.vercel.app/api?username=00
 
 
 
@@ -94,14 +82,5 @@
 
 
 
-Mokhtar00&theme=gotham)](https://github.com/00AhmedMokhtar00/github-readme-stats)
 
 
-Open Source Contributor from <b>Egypt<b> 💙
-
-![](https://visitor-badge.glitch.me/badge?page_id=00AhmedMokhtar00.00AhmedMokhtar00)
-
-[profile]: https://00ahmedmokhtar00.github.io
-[gdg]: https://gdg.community.dev/gdg-beni-suef/#
-[codeforces]: https://codeforces.com/profile/00Mokhtar00
-[hackerrank]: https://www.hackerrank.com/ahmedmokhtar7711
