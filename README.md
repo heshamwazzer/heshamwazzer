@@ -19,7 +19,8 @@
 
 
     
-
+<div class="badge-base LI-profile-badge" data-locale="ar_AE" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="heshamwazzer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/heshamwazzer?trk=profile-badge">hesham wazzer</a></div>
+              
 <a href="https://www.facebook.com/heshamwazzer">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
