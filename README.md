@@ -24,8 +24,8 @@ hi, i'm [Hesham Wazzer](https://heshamwazzer.com/), I'M an interactive developer
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 Any Freelance Work? Contact Me Now , [email](mailto:h.wazzier@gmail.com) :)
+- 💬 Ask Me About Anything, I am Happy to Help;
 
 **languages and tools:**  
 
