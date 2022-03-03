@@ -1,33 +1,14 @@
 ### Hey there, I'm  Hesham Wazzer   <img align="center" alt="GIF" src="83177028_1210447069165025_3417387348646690816_n.jpg" width="45" height="45" />
 
-<div align="center">
-<p align="center">Let's connect!</p>
-<a href="https://wa.me/201280838455?text=Hi Hesham Wazzer">
-    <img src="https://img.shields.io/badge/Whatsapp-23bc5e?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a href="https://twitter.com/wazzer_hesham">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/hesham.wazzer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/hesham-wazzer-506428160/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-
-    
-<div class="badge-base LI-profile-badge" data-locale="ar_AE" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="heshamwazzer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/heshamwazzer?trk=profile-badge">hesham wazzer</a></div>
-              
-<a href="https://www.facebook.com/heshamwazzer">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-
-    
-</div>
+<p align="center">
+	<a href="https://twitter.com/TerryTangYuan"><img src="imgs/twitter.svg" alt="Twitter"></a>
+	<a href="https://github.com/terrytangyuan"><img src="imgs/github.svg" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/terrytangyuan"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+	<a href="https://github.com/sponsors/terrytangyuan"><img src="imgs/sponsors.svg" alt="Sponsors"></a>
+	<a href="https://terrytangyuan.github.io/cv.html"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
+	<a href="https://scholar.google.com/citations?user=2GYttqUAAAAJ&hl=en"><img src="imgs/citations.svg" alt="Citations"></a>
+	<a href="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/wechat-qr-code.png"><img src="imgs/wechat.svg" alt="微信"></a>
+</p>
 
 <br>
 <div align="center">
