@@ -20,7 +20,7 @@ hi, I'm   [Hesham Wazzer](https://heshamwazzer.com/) , I'M an interactive develo
 
   
 - 💼 Any Freelance Work? Contact Me Now , [email](mailto:eng.wazzer@gmail.com) :)
-- 💬 Ask Me About Anything, I am Happy to Help [email](mailto:eng.wazzer@gmail.com) :);
+- 💬 Ask Me About Anything, I am Happy to Help [email](mailto:eng.wazzer@gmail.com) :)
 
 **languages and tools:**  
 
