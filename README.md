@@ -1,6 +1,10 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![](https://visitor-badge.glitch.me/badge?page_id=Heshamwazzer.Heshamwazzer)
 
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/peterthehan.svg?style=social)](https://twitter.com/wazzer_hesham)
+
+
 <a href="https://www.linkedin.com/in/heshamwazzer/">
   <img align="left" alt="Hesham wazzer's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
