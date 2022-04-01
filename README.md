@@ -8,14 +8,15 @@
 <a target="_blank" href="https://www.instagram.com/hesham.wazzer/">
   <img align="left" alt="Hesham wazzer's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
 <a target="_blank" href="https://twitter.com/wazzer_hesham">
-  <img align="left" alt="Hesham wazzer Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Hesham wazzer| Twitter" width="22px" 
+  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
 <br />
 <br />
 
 
-hi, i'm  [Hesham Wazzer](https://heshamwazzer.com/) , I'M an interactive developer with Professional Experience and Scalable Web designs apps, currently living in Egypt. I'm passionate about Quality Code, Best Practices, Security.
+hi, I'm   [Hesham Wazzer](https://heshamwazzer.com/) , I'M an interactive developer with Professional Experience and Scalable Web designs apps, currently living in Riyadh Saudi. I'm passionate about Quality Code, Best Practices, Security.
 
   
 - 💼 Any Freelance Work? Contact Me Now , [email](mailto:h.wazzier@gmail.com) :)
