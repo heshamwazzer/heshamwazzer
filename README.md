@@ -16,7 +16,6 @@ hi, i'm  [Hesham Wazzer](https://heshamwazzer.com/) , I'M an interactive develop
 </a>
 
 
-  <img align="right" alt="GIF" src="https://github.com/Heshamwazzer/Heshamwazzer/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Any Freelance Work? Contact Me Now , [email](mailto:h.wazzier@gmail.com) :)
 - 💬 Ask Me About Anything, I am Happy to Help;
