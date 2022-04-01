@@ -1,6 +1,5 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![](https://visitor-badge.glitch.me/badge?page_id=Heshamwazzer.Heshamwazzer)
-<br />
 
 <a href="https://www.instagram.com/hesham.wazzer/">
   <img align="left" alt="Hesham wazzer's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -12,7 +11,7 @@
 <a href="https://www.linkedin.com/in/heshamwazzer/">
   <img align="left" alt="Hesham wazzer's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<br />
 
 hi, i'm  [Hesham Wazzer](https://heshamwazzer.com/) , I'M an interactive developer with Professional Experience and Scalable Web designs apps, currently living in Egypt. I'm passionate about Quality Code, Best Practices, Security.
 
