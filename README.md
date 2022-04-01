@@ -2,12 +2,12 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Heshamwazzer.Heshamwazzer) [![Twitter Follow](https://img.shields.io/twitter/follow/wazzer_hesham.svg?style=social)](https://twitter.com/wazzer_hesham)
 
 
-<a href="https://www.linkedin.com/in/heshamwazzer/">
+<a target="_blank" href="https://www.linkedin.com/in/heshamwazzer/">
   <img align="left" alt="Hesham wazzer's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/hesham.wazzer/">
+<a target="_blank" href="https://www.instagram.com/hesham.wazzer/">
   <img align="left" alt="Hesham wazzer's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
-<a href="https://twitter.com/wazzer_hesham">
+<a target="_blank" href="https://twitter.com/wazzer_hesham">
   <img align="left" alt="Hesham wazzer Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
