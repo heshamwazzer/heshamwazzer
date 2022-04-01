@@ -18,7 +18,7 @@
 
 <br />
 <div>
-hi, i'm <a target='_blank'> [Hesham Wazzer](https://heshamwazzer.com/) </a>, I'M an interactive developer with Professional Experience and Scalable Web designs apps, currently living in Egypt. I'm passionate about Quality Code, Best Practices, Security.
+hi, i'm  [Hesham Wazzer](https://heshamwazzer.com/) , I'M an interactive developer with Professional Experience and Scalable Web designs apps, currently living in Egypt. I'm passionate about Quality Code, Best Practices, Security.
 <div />
 
   <img align="right" alt="GIF" src="https://github.com/Heshamwazzer/Heshamwazzer/blob/master/code.gif?raw=true" width="500" height="320" />
