@@ -2,7 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Heshamwazzer.Heshamwazzer)
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/peterthehan.svg?style=social)](https://twitter.com/wazzer_hesham)
+[![Twitter Follow](https://img.shields.io/twitter/follow/peterthehan.svg?style=social)](https://twitter.com/peterthehan)
 
 
 <a href="https://www.linkedin.com/in/heshamwazzer/">
