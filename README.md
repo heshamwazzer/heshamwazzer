@@ -8,16 +8,6 @@
 
 
 
-<a target="_blank" href="https://www.linkedin.com/in/heshamwazzer/">
-  <img align="left"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a target="_blank" href="https://www.instagram.com/hesham.wazzer/">
-  <img align="left" alt="Hesham wazzer's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
-<a target="_blank" href="https://x.com/wazzer_hesham">
-  <img align="left"  width="22px" 
-  src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" />
-</a>
-
 <br /><br />
 
 
