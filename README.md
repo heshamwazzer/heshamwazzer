@@ -9,12 +9,12 @@
 
 
 <a target="_blank" href="https://www.linkedin.com/in/heshamwazzer/">
-  <img align="left" alt="Hesham wazzer's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/hesham.wazzer/">
   <img align="left" alt="Hesham wazzer's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
-<a target="_blank" href="https://twitter.com/wazzer_hesham">
-  <img align="left" alt="Hesham wazzer| Twitter" width="22px" 
+<a target="_blank" href="https://x.com/wazzer_hesham">
+  <img align="left"  width="22px" 
   src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
