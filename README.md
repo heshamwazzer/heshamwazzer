@@ -2,8 +2,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Heshamwazzer.Heshamwazzer) [![Twitter Follow](https://img.shields.io/twitter/follow/wazzer_hesham.svg?style=social)](https://twitter.com/wazzer_hesham)
 
 
-
-<img height="180" src="Colored.png">
 <br />
 
 
