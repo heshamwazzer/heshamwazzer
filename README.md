@@ -1,4 +1,3 @@
- ![](https://visitor-badge.glitch.me/badge?page_id=Heshamwazzer.Heshamwazzer) [![Twitter Follow](https://img.shields.io/twitter/follow/wazzer_hesham.svg?style=social)](https://twitter.com/wazzer_hesham)
 
 
 <br />
@@ -45,6 +44,7 @@ I transform ideas into reliable, scalable, and production-ready software by help
 - 💼 LinkedIn: https://www.linkedin.com/in/heshamwazzer  
 - 🎨 Behance: https://www.behance.net/heshamwazzer  
 - 📧 Email: eng.wazzer@gmail.com  
+ ![](https://visitor-badge.glitch.me/badge?page_id=Heshamwazzer.Heshamwazzer) [![Twitter Follow](https://img.shields.io/twitter/follow/wazzer_hesham.svg?style=social)](https://twitter.com/wazzer_hesham)
 
 ---
 
