@@ -1,70 +1,90 @@
+<div align="center">
 
+# Hesham Wazzer
+**Senior Full-Stack Software Engineer (Angular • ASP.NET Core .NET 6/7/8)**  
+Building scalable, high-performance web applications and enterprise systems.
 
-<br />
+[LinkedIn](https://www.linkedin.com/in/heshamwazzer) •
+[Behance](https://www.behance.net/heshamwazzer) •
+[Email](mailto:eng.wazzer@gmail.com)
 
-# Hesham Wazzer 👋
-Senior Full Stack Software Engineer (Angular & .NET) focused on building scalable, high-performance software solutions for modern businesses.
-
-- ⚙️ Backend: ASP.NET Core (.NET 6/7/8), REST APIs, EF Core, SQL
-- 🎨 Frontend: Angular (latest), TypeScript, RxJS, NgRx, performance-first UI
-- 🧠 Strong in clean architecture, best practices, and security-minded development
-- 🤝 Lead & mentor engineers to deliver production-ready products with real business impact
-
----
-
-## About
-I work with companies, startups, and technical teams across industries such as:  
-**SaaS, ERP, FinTech, E-commerce, Education, Healthcare, Logistics, Retail, Manufacturing, Events, Restaurants, and Enterprise Systems**.
-
-I transform ideas into reliable, scalable, and production-ready software by helping teams:
-- Design clean architectures
-- Build robust back-end systems using .NET
-- Develop modern, responsive, high-performance front-end applications with Angular
-- Deliver efficient, maintainable, high-quality products that connect technology with real business impact
+</div>
 
 ---
 
-## Multidisciplinary Engineering Roles
-- Senior Software Engineer  
-- Angular Frontend Specialist  
-- .NET Backend & System Architect  
-- API & Database Engineer  
-- Performance & Scalability Specialist  
-- Software Problem Solver  
+## Tech Stack & Focus
+**Frontend:** Angular, TypeScript, RxJS, NgRx, responsive UI, performance optimization  
+**Backend:** ASP.NET Core, REST APIs, EF Core, auth (JWT/roles), clean architecture  
+**Data:** SQL Server, PostgreSQL, query optimization  
+**Delivery:** Git, Docker, CI/CD, testing, code reviews, maintainable systems
+
+---
+
+## Badges
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?logo=reactivex&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+
+---
+
+## What I Do
+I help teams transform ideas into **reliable, scalable, production-ready** software by:
+- Designing clean architectures and maintainable codebases
+- Building robust back-end systems with **ASP.NET Core**
+- Developing modern, high-performance front-ends with **Angular**
+- Improving performance, scalability, and delivery quality
+
+**Industries:** SaaS, ERP, FinTech, E-commerce, Education, Healthcare, Logistics, Retail, Manufacturing, Events, Restaurants, Enterprise Systems.
+
+---
+
+## Pinned Projects (Templates)
+> Replace the links below with your real GitHub repos + live demos.
+
+### 1) 🚀 Enterprise SaaS Platform (Angular + .NET)
+- **Goal:** Multi-tenant SaaS with RBAC and scalable modules  
+- **Stack:** Angular, ASP.NET Core, EF Core, SQL  
+- **Highlights:** Auth/JWT • Modular architecture • Performance optimizations  
+- **Repo:** https://github.com/heshamwazzer/REPO_NAME  
+- **Live:** https://YOUR_LIVE_DEMO
+
+### 2) ⚙️ API Platform / Microservices (ASP.NET Core)
+- **Goal:** Secure API suite with caching and observability basics  
+- **Stack:** ASP.NET Core, Redis, Docker, SQL  
+- **Highlights:** Rate limiting • Background jobs • CI/CD  
+- **Repo:** https://github.com/heshamwazzer/REPO_NAME  
+- **Docs:** https://YOUR_API_DOCS
+
+### 3) 📊 Analytics Dashboard (Angular)
+- **Goal:** High-performance dashboard with filtering and real-time UX  
+- **Stack:** Angular, RxJS, NgRx  
+- **Highlights:** Lazy loading • State management • UX performance  
+- **Repo:** https://github.com/heshamwazzer/REPO_NAME  
+- **Live:** https://YOUR_LIVE_DEMO
+
+### 4) 🔐 Auth & Security Starter (Angular + .NET)
+- **Goal:** Production-ready auth template (JWT, roles, refresh tokens)  
+- **Stack:** Angular, ASP.NET Core  
+- **Highlights:** Guards/Interceptors • Secure API patterns • Validation  
+- **Repo:** https://github.com/heshamwazzer/REPO_NAME
 
 ---
 
 ## Certifications
-- ✅ Google Cloud Platform (GCP) Essentials  
-- ✅ Angular Development (Udacity)
+- Google Cloud Platform (GCP) Essentials  
+- Angular Development (Udacity)
 
 ---
 
-## Featured Links
-- 💼 LinkedIn: https://www.linkedin.com/in/heshamwazzer  
-- 🎨 Behance: https://www.behance.net/heshamwazzer  
-- 📧 Email: eng.wazzer@gmail.com  
- ![](https://visitor-badge.glitch.me/badge?page_id=Heshamwazzer.Heshamwazzer) [![Twitter Follow](https://img.shields.io/twitter/follow/wazzer_hesham.svg?style=social)](https://twitter.com/wazzer_hesham)
-
----
-
-## Tech Stack
-**Frontend:** Angular, TypeScript, RxJS, NgRx, HTML, CSS  
-**Backend:** ASP.NET Core, Web APIs, EF Core  
-**Database:** SQL Server, PostgreSQL  
-**DevOps/Tools:** Git, Docker, CI/CD (Azure DevOps / GitHub Actions)  
-**Quality:** Testing, code reviews, SOLID, design patterns, performance tuning
-
----
-
-## Open to
-- Full-Stack roles (Angular + .NET)
-- Building scalable SaaS / enterprise systems
-- Performance & architecture improvements
-- Consulting / collaboration
-
----
-
-## Let’s Build Something Great
-If you’re hiring or want to collaborate, reach out:
-**eng.wazzer@gmail.com**
+## Contact
+📧 **eng.wazzer@gmail.com**  
+💼 **LinkedIn:** https://www.linkedin.com/in/heshamwazzer  
+🎨 **Behance:** https://www.behance.net/heshamwazzer
