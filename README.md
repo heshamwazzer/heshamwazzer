@@ -44,15 +44,7 @@ I help teams transform ideas into **reliable, scalable, production-ready** softw
 
 **Industries:** SaaS, ERP, FinTech, E-commerce, Education, Healthcare, Logistics, Retail, Manufacturing, Events, Restaurants, Enterprise Systems.
 
----
-# Hesham Wazzer 👋
-Senior Full Stack Software Engineer (Angular & .NET) focused on building scalable, high-performance software solutions for modern businesses.
-
-- ⚙️ Backend: ASP.NET Core (.NET 6/7/8), REST APIs, EF Core, SQL
-- 🎨 Frontend: Angular (latest), TypeScript, RxJS, NgRx, performance-first UI
-- 🧠 Strong in clean architecture, best practices, and security-minded development
-- 🤝 Lead & mentor engineers to deliver production-ready products with real business impact
-
+ 
 ---
 
 ## About
@@ -80,14 +72,7 @@ I transform ideas into reliable, scalable, and production-ready software by help
 ## Certifications
 - ✅ Google Cloud Platform (GCP) Essentials  
 - ✅ Angular Development (Udacity)
-
----
-
-## Featured Links
-- 💼 LinkedIn: https://www.linkedin.com/in/heshamwazzer  
-- 🎨 Behance: https://www.behance.net/heshamwazzer  
-- 📧 Email: eng.wazzer@gmail.com  
-
+ 
 ---
 
 ## Tech Stack
