@@ -67,11 +67,6 @@ I transform ideas into reliable, scalable, and production-ready software by help
 - Performance & Scalability Specialist  
 - Software Problem Solver  
 
----
-
-## Certifications
-- ✅ Google Cloud Platform (GCP) Essentials  
-- ✅ Angular Development (Udacity)
  
 ---
 
