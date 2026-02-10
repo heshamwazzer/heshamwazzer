@@ -45,37 +45,66 @@ I help teams transform ideas into **reliable, scalable, production-ready** softw
 **Industries:** SaaS, ERP, FinTech, E-commerce, Education, Healthcare, Logistics, Retail, Manufacturing, Events, Restaurants, Enterprise Systems.
 
 ---
+# Hesham Wazzer 👋
+Senior Full Stack Software Engineer (Angular & .NET) focused on building scalable, high-performance software solutions for modern businesses.
 
-## Pinned Projects (Templates)
-> Replace the links below with your real GitHub repos + live demos.
+- ⚙️ Backend: ASP.NET Core (.NET 6/7/8), REST APIs, EF Core, SQL
+- 🎨 Frontend: Angular (latest), TypeScript, RxJS, NgRx, performance-first UI
+- 🧠 Strong in clean architecture, best practices, and security-minded development
+- 🤝 Lead & mentor engineers to deliver production-ready products with real business impact
 
-### 1) 🚀 Enterprise SaaS Platform (Angular + .NET)
-- **Goal:** Multi-tenant SaaS with RBAC and scalable modules  
-- **Stack:** Angular, ASP.NET Core, EF Core, SQL  
-- **Highlights:** Auth/JWT • Modular architecture • Performance optimizations  
-- **Repo:** https://github.com/heshamwazzer/REPO_NAME  
-- **Live:** https://YOUR_LIVE_DEMO
+---
 
-### 2) ⚙️ API Platform / Microservices (ASP.NET Core)
-- **Goal:** Secure API suite with caching and observability basics  
-- **Stack:** ASP.NET Core, Redis, Docker, SQL  
-- **Highlights:** Rate limiting • Background jobs • CI/CD  
-- **Repo:** https://github.com/heshamwazzer/REPO_NAME  
-- **Docs:** https://YOUR_API_DOCS
+## About
+I work with companies, startups, and technical teams across industries such as:  
+**SaaS, ERP, FinTech, E-commerce, Education, Healthcare, Logistics, Retail, Manufacturing, Events, Restaurants, and Enterprise Systems**.
 
-### 3) 📊 Analytics Dashboard (Angular)
-- **Goal:** High-performance dashboard with filtering and real-time UX  
-- **Stack:** Angular, RxJS, NgRx  
-- **Highlights:** Lazy loading • State management • UX performance  
-- **Repo:** https://github.com/heshamwazzer/REPO_NAME  
-- **Live:** https://YOUR_LIVE_DEMO
+I transform ideas into reliable, scalable, and production-ready software by helping teams:
+- Design clean architectures
+- Build robust back-end systems using .NET
+- Develop modern, responsive, high-performance front-end applications with Angular
+- Deliver efficient, maintainable, high-quality products that connect technology with real business impact
 
-### 4) 🔐 Auth & Security Starter (Angular + .NET)
-- **Goal:** Production-ready auth template (JWT, roles, refresh tokens)  
-- **Stack:** Angular, ASP.NET Core  
-- **Highlights:** Guards/Interceptors • Secure API patterns • Validation  
-- **Repo:** https://github.com/heshamwazzer/REPO_NAME
+---
 
+## Multidisciplinary Engineering Roles
+- Senior Software Engineer  
+- Angular Frontend Specialist  
+- .NET Backend & System Architect  
+- API & Database Engineer  
+- Performance & Scalability Specialist  
+- Software Problem Solver  
+
+---
+
+## Certifications
+- ✅ Google Cloud Platform (GCP) Essentials  
+- ✅ Angular Development (Udacity)
+
+---
+
+## Featured Links
+- 💼 LinkedIn: https://www.linkedin.com/in/heshamwazzer  
+- 🎨 Behance: https://www.behance.net/heshamwazzer  
+- 📧 Email: eng.wazzer@gmail.com  
+
+---
+
+## Tech Stack
+**Frontend:** Angular, TypeScript, RxJS, NgRx, HTML, CSS  
+**Backend:** ASP.NET Core, Web APIs, EF Core  
+**Database:** SQL Server, PostgreSQL  
+**DevOps/Tools:** Git, Docker, CI/CD (Azure DevOps / GitHub Actions)  
+**Quality:** Testing, code reviews, SOLID, design patterns, performance tuning
+
+---
+
+## Open to
+- Full-Stack roles (Angular + .NET)
+- Building scalable SaaS / enterprise systems
+- Performance & architecture improvements
+- Consulting / collaboration
+ 
 ---
 
 ## Certifications
